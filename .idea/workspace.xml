@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5533d9b-8210-48c2-9e4a-794beec7ef33" name="更改" comment="--">
+      <change afterPath="$PROJECT_DIR$/code/self_practice/fashion_mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/self_practice/mnist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.2_linear-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.2_linear-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.3_linear-regression-pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.3_linear-regression-pytorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.5_fashion-mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.5_fashion-mnist.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.6_softmax-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.6_softmax-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.7_softmax-regression-pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.7_softmax-regression-pytorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/self_practice/lin_reg_prac_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/self_practice/lin_reg_prac_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/self_practice/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/self_practice/practice.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Xt3ZunAq7duT2XBicTb0t2xWw5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rainbow/workingLabs/Dive-into-DL-PyTorch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b5533d9b-8210-48c2-9e4a-794beec7ef33" name="更改" comment="" />
+      <created>1699434609585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699434609585</updated>
+      <workItem from="1699434611861" duration="608000" />
+      <workItem from="1699435394769" duration="7048000" />
+      <workItem from="1699467901944" duration="1303000" />
+      <workItem from="1705145158166" duration="13531000" />
+      <workItem from="1705210939160" duration="14358000" />
+    </task>
+    <task id="LOCAL-00001" summary="--">
+      <created>1699451290848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699451290848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="--">
+      <created>1699451654072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699451654072</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
+  </component>
+</project>
