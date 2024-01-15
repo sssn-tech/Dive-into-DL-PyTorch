@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5533d9b-8210-48c2-9e4a-794beec7ef33" name="更改" comment="--">
-      <change afterPath="$PROJECT_DIR$/code/self_practice/fashion_mnist.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/self_practice/mnist.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mnist/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.2_linear-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.2_linear-regression-scratch.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.3_linear-regression-pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.3_linear-regression-pytorch.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.5_fashion-mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.5_fashion-mnist.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.6_softmax-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.6_softmax-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/chapter03_DL-basics/3.7_softmax-regression-pytorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter03_DL-basics/3.7_softmax-regression-pytorch.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/self_practice/lin_reg_prac_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/self_practice/lin_reg_prac_3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/self_practice/practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/self_practice/practice.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +61,7 @@
       <workItem from="1699435394769" duration="7048000" />
       <workItem from="1699467901944" duration="1303000" />
       <workItem from="1705145158166" duration="13531000" />
-      <workItem from="1705210939160" duration="14358000" />
+      <workItem from="1705210939160" duration="19582000" />
     </task>
     <task id="LOCAL-00001" summary="--">
       <created>1699451290848</created>
